@@ -1,2 +1,3 @@
-# main-platform-infrastructure
-Code for the main CFI platform
+# cfip-infrastructure
+
+Code for the CFI platform
